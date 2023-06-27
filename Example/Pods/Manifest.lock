@@ -1,0 +1,16 @@
+PODS:
+  - FYFTestPackage (0.1.0)
+
+DEPENDENCIES:
+  - FYFTestPackage (from `../`)
+
+EXTERNAL SOURCES:
+  FYFTestPackage:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FYFTestPackage: 03cc44cd3cbd94649189bc691e31e9a9f429fc82
+
+PODFILE CHECKSUM: 1d7415c751c23c4775cf2613a3fe89a470054ee4
+
+COCOAPODS: 1.12.0
